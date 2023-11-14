@@ -1,0 +1,11 @@
+Model Information:
+* title:	UMP45 Low-Poly
+* source:	https://sketchfab.com/3d-models/ump45-low-poly-10f7f63ac31a4c4ea9f1b87a999878aa
+* author:	redraptor (https://sketchfab.com/makbuk4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "UMP45 Low-Poly" (https://sketchfab.com/3d-models/ump45-low-poly-10f7f63ac31a4c4ea9f1b87a999878aa) by redraptor (https://sketchfab.com/makbuk4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
